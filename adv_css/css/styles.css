@@ -21,7 +21,7 @@ a:hover {
 
 #container {
     background-color: aliceblue;
-    width: 75%;
+    width: 80%;
     margin: 20px auto;
     border-radius: 20px;
 }
@@ -135,4 +135,8 @@ hr {
 
 .xpaccover img {
     width: 100%;
+}
+
+main hr {
+    width: 50%;
 }
