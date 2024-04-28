@@ -13,9 +13,9 @@ video {
 }
 
 body {
-    background-color: #590202;
+    background-color: #0E4473;
 }
-
+/*#590202 */
 #container {
     background-color: white;
     padding: 10px;
@@ -157,7 +157,7 @@ footer {
     }
 
     #lower {
-        width: 100%;
+        width: 95%;
         display: flex;
     }
 
