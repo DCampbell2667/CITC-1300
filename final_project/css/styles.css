@@ -170,12 +170,6 @@ footer {
     width: 90%;
 }
 
-#decades {
-    hr {
-    width: 50%;
-    display: flex;
-    }
-}
 
 #braves_win {
     width: 50%;
