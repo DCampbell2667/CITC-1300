@@ -108,6 +108,8 @@ footer {
     color: black;
 }
 
+
+
 @media (min-width: 786px) {
     
     nav {
@@ -134,6 +136,7 @@ footer {
     .col img {
         width: 40%;
     }
+
 
 }
 
@@ -170,15 +173,3 @@ footer {
     width: 90%;
 }
 
-
-#braves_win {
-    width: 50%;
-    display: flex;
-    
-}
-
-#fireworks {
-    width: 50%;
-    display: flex;
-    
-}
