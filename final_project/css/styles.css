@@ -271,10 +271,38 @@ footer {
     width: 90%;
 }
 
+#capsule {
+    display: flex;
+    margin: 0 auto;
+    width: 50%
+}
+
+.xpaccover {
+    margin: 10px;
+    
+}
+
+.xpaccover img {
+    width: 90%;
+}
+
+#banners {
+    display: flex;
+    margin: 0 auto;
+    width: 25%
+}
+
+.xpaccover {
+    margin: 10px;
+    
+}
+
+.xpaccover img {
+    width: 90%;
+
 #fireworks video {
         display: block;
         margin: 0 auto;
         width: 35%;
         height: 35%;
     }
-
