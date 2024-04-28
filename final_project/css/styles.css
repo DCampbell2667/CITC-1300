@@ -5,6 +5,12 @@ img {
     width: 100%;
 }
 
+video {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
 body {
     background-color: #590202;
 }
@@ -157,6 +163,7 @@ footer {
     .col {
         width: 33.33%;
     }
+    
 }
 #xpacs {
     display: flex;
@@ -172,4 +179,3 @@ footer {
 .xpaccover img {
     width: 90%;
 }
-
